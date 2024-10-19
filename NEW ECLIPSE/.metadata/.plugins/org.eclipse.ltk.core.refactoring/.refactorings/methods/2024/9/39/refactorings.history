@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.rishi.methods&apos; to &apos;methods/src/com.rishi.methods&apos;&#x0D;&#x0A;- Original project: &apos;methods&apos;&#x0D;&#x0A;- Destination element: &apos;methods/src/com.rishi.methods&apos;&#x0D;&#x0A;- Original element: &apos;methods/src/com.rishi.methods&apos;" description="Copy package" destination="/src&lt;com.rishi.methods" element1="/src&lt;com.rishi.methods" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1727250297760" version="1.0"/>
+</session>

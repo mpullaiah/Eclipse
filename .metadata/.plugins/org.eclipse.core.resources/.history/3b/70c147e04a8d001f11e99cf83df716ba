@@ -1,0 +1,10 @@
+package com.rishi.package2;
+
+import com.rishi.package1.Demo;
+
+public class DemoApp {
+Demo d = new Demo();
+public static void main(String[] args) {
+	
+}
+}

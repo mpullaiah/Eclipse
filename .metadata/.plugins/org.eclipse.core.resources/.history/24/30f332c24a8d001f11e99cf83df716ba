@@ -1,0 +1,17 @@
+package com.rishi.package1;
+
+public class Demo {
+public int a=10;
+public int b=20;
+public int c=30;
+public int d=40;
+
+void display() {
+	System.out.println(a);
+	System.out.println(b);
+	System.out.println(c);
+	System.out.println(d);
+
+}
+
+}

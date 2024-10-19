@@ -1,0 +1,14 @@
+package com.rishi.interfaces;
+
+
+public class WelcomeLamda {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+Greeting greeting = ()-> {
+	System.out.println("HELLO");
+};
+greeting.greet();
+	}
+
+}

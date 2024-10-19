@@ -1,0 +1,15 @@
+package com.rishi.java.strings;
+
+public class Test {
+
+	public static void main(String[] args) {
+ String s1 = "RishiKumar";
+ String email = "rishimadduru89@gmai.com";
+ 
+ String s2 = new String("HEllo");
+System.out.println(s1+email);
+System.out.println(s2);
+System.out.println(new Test());
+	}
+
+}

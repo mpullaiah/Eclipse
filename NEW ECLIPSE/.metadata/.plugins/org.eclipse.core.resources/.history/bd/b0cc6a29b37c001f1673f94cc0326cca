@@ -1,0 +1,14 @@
+package prabash;
+
+public class Main {
+
+	public static void main(String[] args) {
+        A a = new A();
+        a.read();
+        B b = new B();
+        b.write();
+        C c =new C();
+        c.code();
+	}
+
+}

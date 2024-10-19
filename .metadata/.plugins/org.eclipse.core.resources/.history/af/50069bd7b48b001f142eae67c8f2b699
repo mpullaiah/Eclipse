@@ -1,0 +1,21 @@
+package com.rishi.oops.constructor;
+
+public class ClassWorker extends Employee {
+int salary;
+int rating;
+public ClassWorker() {
+	this.salary=500000;
+	this.rating=5;
+}
+public ClassWorker(int salary) {
+	this.salary=salary;
+	this.rating= 4;
+}
+public ClassWorker(int salry,int rating) {
+	this.salary=salary;
+	this.rating=rating;
+}
+}
+
+
+
